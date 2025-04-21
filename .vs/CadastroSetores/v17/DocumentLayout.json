@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|c:\\users\\alvar\\onedrive\\\u00E1rea de trabalho\\cadastrosetores\\cadastrosetores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|solutionrelative:cadastrosetores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|c:\\users\\alvar\\onedrive\\\u00E1rea de trabalho\\cadastrosetores\\cadastrosetores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|solutionrelative:cadastrosetores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|c:\\users\\alvar\\onedrive\\\u00E1rea de trabalho\\cadastrosetores\\cadastrosetores\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|solutionrelative:cadastrosetores\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|c:\\users\\alvar\\onedrive\\\u00E1rea de trabalho\\cadastrosetores\\cadastrosetores\\setor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89176951-9293-42B9-8CA7-B4879B4E7464}|CadastroSetores\\CadastroSetores.csproj|solutionrelative:cadastrosetores\\setor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroSetores\\Form1.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroSetores\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:34:53.325Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroSetores\\Form1.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\Form1.cs",
+              "RelativeToolTip": "CadastroSetores\\Form1.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwLEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:22:42.353Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Setor.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\Setor.cs",
+              "RelativeDocumentMoniker": "CadastroSetores\\Setor.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\Setor.cs",
+              "RelativeToolTip": "CadastroSetores\\Setor.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:56:36.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "CadastroSetores\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\alvar\\OneDrive\\\u00C1rea de Trabalho\\CadastroSetores\\CadastroSetores\\ConexaoBD.cs",
+              "RelativeToolTip": "CadastroSetores\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:56:36.456Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
